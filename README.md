@@ -49,3 +49,5 @@ $ npm run build
 ```
 
 如果您是部署到自己服务器上，你可能需要 [Github OAuth2](https://github.com/xjh22222228/github-oauth2)
+## 原仓库地址
+https://github.com/xjh22222228/boomb
