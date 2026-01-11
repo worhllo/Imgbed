@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://boomb2.netlify.app">
-    <img src="public/logo.png" width="300" />
+    <img src="https://gcore.jsdelivr.net/gh/worhllo/Imgbed@main/1768112654971.png" width="300" />
   </a>
   <p align="center">基于 Github 轻松管理您的存储图库</p>
   <p align="center">
