@@ -1,5 +1,3 @@
-# Imgbed
-Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库
 <p align="center">
   <a href="https://boomb2.netlify.app">
     <img src="public/logo.png" width="300" />
